@@ -1,3 +1,5 @@
+<h1 align="center">INSTALLAION</h1>
+------------------------------------------------------------------------------------------------------------
 Install the 'install.sh' to your /Downloads folder
 
 open terminal 
